@@ -1,0 +1,13 @@
+C:\Users\sufik\source\repos\tessa\tessa\bin\Debug\netcoreapp3.1\tessa.exe
+C:\Users\sufik\source\repos\tessa\tessa\bin\Debug\netcoreapp3.1\tessa.deps.json
+C:\Users\sufik\source\repos\tessa\tessa\bin\Debug\netcoreapp3.1\tessa.runtimeconfig.json
+C:\Users\sufik\source\repos\tessa\tessa\bin\Debug\netcoreapp3.1\tessa.runtimeconfig.dev.json
+C:\Users\sufik\source\repos\tessa\tessa\bin\Debug\netcoreapp3.1\tessa.dll
+C:\Users\sufik\source\repos\tessa\tessa\bin\Debug\netcoreapp3.1\tessa.pdb
+C:\Users\sufik\source\repos\tessa\tessa\obj\Debug\netcoreapp3.1\tessa.AssemblyInfoInputs.cache
+C:\Users\sufik\source\repos\tessa\tessa\obj\Debug\netcoreapp3.1\tessa.AssemblyInfo.cs
+C:\Users\sufik\source\repos\tessa\tessa\obj\Debug\netcoreapp3.1\tessa.csproj.CoreCompileInputs.cache
+C:\Users\sufik\source\repos\tessa\tessa\obj\Debug\netcoreapp3.1\tessa.dll
+C:\Users\sufik\source\repos\tessa\tessa\obj\Debug\netcoreapp3.1\tessa.pdb
+C:\Users\sufik\source\repos\tessa\tessa\obj\Debug\netcoreapp3.1\tessa.genruntimeconfig.cache
+C:\Users\sufik\source\repos\tessa\tessa\obj\Debug\netcoreapp3.1\tessa.csprojAssemblyReference.cache
